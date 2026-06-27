@@ -1,3 +1,5 @@
+// NO COMMENTS BRO!
+
 #include <stdio.h>
 
 int hello()
